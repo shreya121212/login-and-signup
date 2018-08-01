@@ -1,0 +1,26 @@
+{
+  "name": "nodetraining",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-countries": "^1.1.5",
+    "angular-country-picker": "^2.0.1",
+    "angularjs-social-login": "^2.6.1",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.10",
+    "mongoose-paginate": "^5.0.3",
+    "nexmo": "^2.2.0",
+    "ngx-country-picker": "^1.2.0",
+    "nodemailer": "^4.6.3",
+    "random-number": "0.0.9"
+  }
+}
